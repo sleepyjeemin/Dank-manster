@@ -1,0 +1,107 @@
+.image {
+    background-image: url(maxresdefault.jpg);
+}
+
+h1 {
+    color: red;
+    text-align: center;
+    font-size: 100px;
+}
+
+h2 {
+    color: green;
+    text-align: center;
+    font-size: 60px;
+}
+
+h3 {
+    color: blue;
+    text-align: center;
+    font-size: 60px;
+}
+
+#email:hover {
+    color: #DAA520;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#facebook {
+    text-align: left;
+    font-size: 150px;
+}
+
+#facebook:hover {
+    color: #3b5999;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#reddit {
+    text-align: left;
+    font-size: 150px;
+}
+
+#reddit:hover {
+    color: red;
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#email {
+    text-align: left;
+    font-size: 150px;
+}
+
+p {
+    color: red;
+    text-align: center;
+    font-size: 30px;
+}
+
+.DANKMEME {
+    padding-top: 40px;
+}
+
+.description {
+    padding-bottom: 15px;
+}
+
+.pure-g {
+    background-color: gray;
+    padding-top: 20px;
+}
+
+.pure-g h3 {
+    color: red;
+    text-align: center;
+    font-size: 35px;
+}
+
+.pure-g p {
+    color: white;
+}
+
+.Contact {
+    background-color: white;
+    padding-bottom: 15px;
+}
+
+.Contact .pure-g {
+    background-color: white;
+}
+#copy {
+    background-color: black;
+    text-decoration-color: white;
+    color: white;
+    
+}
+.email 
+.facebook 
+.reddit 
